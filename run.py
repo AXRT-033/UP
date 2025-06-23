@@ -1,8 +1,7 @@
-import AXRT 
+import AXRT
 
 def main():
-
-    AXRT.some_function()  
+    AXRT.____AXRT____()  
 
 if __name__ == "__main__":
     main()
