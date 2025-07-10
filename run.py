@@ -1,7 +1,6 @@
 import API
 
 def main():
-    API.____API____()  
+    API.apv()  # أو يمكنك استخدام API.menu() مباشرة إذا أردت تخطي التحقق
 
-if __name__ == "__main__":
-    main()
+main()
