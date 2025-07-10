@@ -1,7 +1,7 @@
-import AXRT
+import API
 
 def main():
-    AXRT.____AXRT____()  
+    API.____API____()  
 
 if __name__ == "__main__":
     main()
