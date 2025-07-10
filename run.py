@@ -1,7 +1,7 @@
 import API
 
 def main():
-    API.___API___()
+    API.menu()
 
 if __name__ == '__main__':
     main()
